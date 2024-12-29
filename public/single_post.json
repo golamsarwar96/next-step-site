@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "image": "https://example.com/images/career-counseling.jpg",
+  "service_name": "Career Counseling Sessions",
+  "category": "Online",
+  "description": "Personalized one-on-one sessions to help you explore career options, set goals, and plan your career path.",
+  "pricing": "$50 per session",
+  "duration_in_hours": "1 Hour",
+  "counselor": "Dr. Amanda Green",
+  "reviews": 4.8
+}
